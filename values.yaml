@@ -206,7 +206,7 @@ service:
 # -- Using ingress access Apache APISIX service
 ingress:
   enabled: false
-  # -- (number) Service port to send traffic. Defaults to `service.http.servicePort`.
+  # -- (number) Service port to send traffic. Defaults to `service.http.servicePort`.aa
   servicePort:
   # -- Ingress annotations
   annotations: {}
